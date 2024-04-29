@@ -48,3 +48,6 @@ bld/
 [Ll]ogs/
 # Add this line
 out/
+
+# Visual Studio
+.vs/
